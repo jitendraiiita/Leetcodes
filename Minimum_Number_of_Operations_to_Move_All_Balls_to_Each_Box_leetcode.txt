@@ -42,12 +42,17 @@ Constraints:
 -------------------------------
 
 Language:
-Language unknown
+C++
 
 -------------------------------
 
 Code:
-Code not found
+class Solution {
+public:
+    vector<int> minOperations(string boxes) {
+        return null;
+    }
+};
 
 -------------------------------
 
